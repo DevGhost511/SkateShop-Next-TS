@@ -92,9 +92,7 @@ Thanks goes to these wonderful people for their contributions:
  </a>
 </p>
 
-<p align="center">
- Made with <a rel="noopener noreferrer" target="_blank" href="https://contrib.rocks">contrib.rocks</a>
-</p>
+
 
 ## License
 
