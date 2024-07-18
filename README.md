@@ -78,20 +78,6 @@ This is an open source e-commerce skateshop build with everything new in Next.js
 
 Follow the deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
 
-## Contributing
-
-Contributions are welcome! Please open an issue if you have any questions or suggestions. Your contributions will be acknowledged. See the [contributing guide](./CONTRIBUTING.md) for more information.
-
-## Contributors
-
-Thanks goes to these wonderful people for their contributions:
-
-<p align="center">
- <a href="https://github.com/sadmann7/skateshop/graphs/contributors">
-   <img src="https://contrib.rocks/image?repo=sadmann7/skateshop" />
- </a>
-</p>
-
 
 
 ## License
